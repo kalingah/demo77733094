@@ -14,6 +14,7 @@ import javax.annotation.PostConstruct;
 public class WebSocketClient extends TextWebSocketHandler {
 
     //added this comment and edited
+    //added one more comment
     @PostConstruct
     public void connect() throws Exception {
         // Create the WebSocket client
