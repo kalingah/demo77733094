@@ -13,7 +13,7 @@ import javax.annotation.PostConstruct;
 @Component
 public class WebSocketClient extends TextWebSocketHandler {
 
-    //added this comment and edited
+    //added this comment and edited updated
     //added one more comment
     @PostConstruct
     public void connect() throws Exception {
